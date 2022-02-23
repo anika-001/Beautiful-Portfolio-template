@@ -2,19 +2,40 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
-## Development server
+## Overview 
+Hello Everyone!
+We have made a template of a Portfolio for researchers and developers
+
+### Nodejs Documentation
+[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](https://nodejs.org/en/about/) 
+
+### Instructions to install
+```
+$ git clone https://github.com/Vaishnavi06Desai/BackEndGenerator.git
+$ npm i
+```
+
+### Instructions for Contribution
+We invite you to contribute to this project and improve it further.
+```
+$ Fork this repository
+$ Clone forked repository
+$ npm i
+```
+
+### Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+### Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+### Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+### Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
