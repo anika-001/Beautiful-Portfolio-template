@@ -1,0 +1,30 @@
+
+.navbar{
+    background-color: rgb(215, 210, 255);
+    width: 100vw;
+    height: 10vh;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+.click{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 1.5%;
+    gap: 10%;
+    font-size: 120%;
+    color: whitesmoke;
+}
+.logo{
+    // background-color: aqua;
+    width: 8vw;
+    height: 10vh;
+    margin-right: 72%;
+    // background-image: url(../../assets/images/logo.png);
+}
+.log{
+    width: 8vw;
+    height: 10vh;
+}
